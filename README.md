@@ -21,7 +21,7 @@ To run this app locally, you'll need Python and an OpenAI API key.
 
 This is what the AI-generated briefing looks like:
 
-![Briefing UI](images/screenshot1.png)
+![Briefing UI](images/screenshot1.PNG)
 
 ## ⚙️ Tech Stack
 
